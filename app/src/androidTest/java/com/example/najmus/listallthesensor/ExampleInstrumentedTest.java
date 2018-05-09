@@ -1,5 +1,7 @@
 package com.example.najmus.listallthesensor;
-
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
